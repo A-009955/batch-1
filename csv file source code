@@ -1,0 +1,16 @@
+CustomerID,Tenure,MonthlyCharges,Contract,Churn
+C001,1,29.85,Month-to-month,Yes
+C002,34,56.95,One year,No
+C003,2,53.85,Month-to-month,Yes
+C004,45,42.30,Two year,No
+C005,5,70.70,Month-to-month,Yes
+C006,8,99.65,Month-to-month,Yes
+C007,22,89.10,One year,No
+C008,10,29.75,Month-to-month,No
+C009,28,104.80,Two year,No
+C010,3,49.95,Month-to-month,Yes
+C011,60,99.65,Two year,No
+C012,12,84.15,One year,No
+C013,6,65.60,Month-to-month,Yes
+C014,24,55.10,One year,No
+C015,1,80.75,Month-to-month,Yes
